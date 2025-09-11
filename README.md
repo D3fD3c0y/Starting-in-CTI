@@ -38,6 +38,13 @@
 - Picus Security Red Repor
 - Red Canary Threat Detection Report
 
+# Nation-State Cyber Operations Groups
+- https://xorl.wordpress.com/2021/04/28/eu-cyber-operations-groups/
+- https://xorl.wordpress.com/2021/05/06/iran-cyber-operations-groups/
+- https://xorl.wordpress.com/2021/04/24/north-korea-dprk-cyber-operations-groups/
+- https://xorl.wordpress.com/2021/04/20/chinese-cyber-operations-groups/
+- https://xorl.wordpress.com/2021/04/18/us-cyber-operations-groups/
+- https://xorl.wordpress.com/2021/04/16/russias-cyber-operations-groups/
 
 # People to follow on LinkedIn:
 - https://www.linkedin.com/in/mthomasson 
