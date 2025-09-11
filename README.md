@@ -35,7 +35,7 @@
 - ENISA Threat Landscape
 - Mandiant M-Trends Report
 - Microsoft Digital Defense Report
-- Picus Security Red Repor
+- Picus Security Red Report
 - Red Canary Threat Detection Report
 
 # Nation-State Cyber Operations Groups
