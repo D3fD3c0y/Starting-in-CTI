@@ -14,9 +14,8 @@
 - Curated Intel list of CTI training and concept - https://github.com/curated-intel/CTI-fundamentals
 
 
-# Books:
+# Free Books:
 - The intelligence book, forth edition, by Recorded Future -  https://sprotyvg7.com.ua/wp-content/uploads/2023/08/intelligence-handbook-fourth-edition.pdf
-- Practical Cyber Intelligence - http://deadnet.se:8080/Books_on_Tech_Survival_woodworking_foraging_etc/practicalcyberintelligence_ebook.pdf
 - Group-IB Intelligence. Action. Defense: Your All-Hands E-Book On Operationalizing Cyber Threat Intelligence (CTI) - https://go.group-ib.com/hubfs/ebook/group-ib-operationalizing-cti-ebook-2025.pdf
 
 # Top class CTI training (Paid)
