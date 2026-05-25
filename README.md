@@ -20,6 +20,7 @@
 
 # Top class CTI training (Paid)
 - https://www.mandiant.com/academy/course-registration
+- https://www.giac.org/certifications/cyber-threat-intelligence-gcti
 
 
 # YouTube content:
